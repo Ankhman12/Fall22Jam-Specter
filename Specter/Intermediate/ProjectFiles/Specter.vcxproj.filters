@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Specter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Specter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpecterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Specter">
+      <UniqueIdentifier>{2770C3BC-F54F-3446-B50F-CB049223EB85}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Specter\Specter.Build.cs">
+      <Filter>Source\Specter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Specter\Specter.cpp">
+      <Filter>Source\Specter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Specter\Specter.h">
+      <Filter>Source\Specter</Filter>
+    </ClInclude>
+    <Filter Include="Source\Specter\Private">
+      <UniqueIdentifier>{C0D57297-8132-355D-92E3-EF23B99E02FA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Specter\Private\SpecterGameMode.cpp">
+      <Filter>Source\Specter\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Specter\Public">
+      <UniqueIdentifier>{3F7BEF15-2A4C-35EB-91AD-CB5156F378FE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Specter\Public\SpecterGameMode.h">
+      <Filter>Source\Specter\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

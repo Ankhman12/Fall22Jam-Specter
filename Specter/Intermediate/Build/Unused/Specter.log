@@ -1,0 +1,20 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\ankhm\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter).
+  Building SpecterEditor...
+  Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Specter unity file: Specter.cpp
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 4.92 GB available: limiting max parallel actions to 3
+  Building 6 actions with 3 processes...
+  [1/6] Resource Default.rc2
+  [2/6] Compile SharedPCH.Engine.ShadowErrors.cpp
+  [3/6] Compile Specter.cpp
+  [4/6] Link UnrealEditor-Specter.lib
+     Creating library C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\UnrealEditor-Specter.lib and object C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\UnrealEditor-Specter.exp
+  [5/6] Link UnrealEditor-Specter.dll
+     Creating library C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\UnrealEditor-Specter.suppressed.lib and object C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\UnrealEditor-Specter.suppressed.exp
+  [6/6] WriteMetadata SpecterEditor.target
+  Total time in Parallel executor: 38.09 seconds
+  Total execution time: 38.61 seconds

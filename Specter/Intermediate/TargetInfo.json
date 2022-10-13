@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Specter",
+			"Path": "C:\\Users\\ankhm\\Documents\\Unreal Projects\\Fall22Jam-Specter\\Specter\\Source\\Specter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpecterEditor",
+			"Path": "C:\\Users\\ankhm\\Documents\\Unreal Projects\\Fall22Jam-Specter\\Specter\\Source\\SpecterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

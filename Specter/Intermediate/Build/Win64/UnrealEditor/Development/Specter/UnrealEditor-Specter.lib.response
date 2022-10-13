@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Specter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\SpecterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\Specter.cpp.obj"
+"C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\Default.rc2.res"
+/OUT:"C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\UnrealEditor-Specter.lib"
