@@ -252,7 +252,6 @@
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I "C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Inc\Specter"
 /I "C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Source"
 /I "C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Source\Specter\Public"
 /I ThirdParty\mimalloc\include

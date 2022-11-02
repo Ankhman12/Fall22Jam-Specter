@@ -1,12 +1,12 @@
 {
-    "Version": "1.1",
+    "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\ankhm\\documents\\unreal projects\\fall22jam-specter\\specter\\source\\specter\\specter.cpp",
+        "Source": "c:\\users\\lib.usability.admin\\documents\\unreal projects\\fall22jam-specter\\specter\\source\\specter\\specter.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\ankhm\\documents\\unreal projects\\fall22jam-specter\\specter\\intermediate\\build\\win64\\spectereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\lib.usability.admin\\documents\\unreal projects\\fall22jam-specter\\specter\\intermediate\\build\\win64\\spectereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\ankhm\\documents\\unreal projects\\fall22jam-specter\\specter\\intermediate\\build\\win64\\unrealeditor\\development\\specter\\definitions.specter.h",
-            "c:\\users\\ankhm\\documents\\unreal projects\\fall22jam-specter\\specter\\source\\specter\\specter.h"
+            "c:\\users\\lib.usability.admin\\documents\\unreal projects\\fall22jam-specter\\specter\\intermediate\\build\\win64\\unrealeditor\\development\\specter\\definitions.specter.h",
+            "c:\\users\\lib.usability.admin\\documents\\unreal projects\\fall22jam-specter\\specter\\source\\specter\\specter.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -34,10 +34,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\SpecterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\SpecterGameMode.cpp.obj"
 "C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\Specter.cpp.obj"
-"C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\Specter.init.gen.cpp.obj"
-"C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\SpecterGameMode.gen.cpp.obj"
 "C:\Users\ankhm\Documents\Unreal Projects\Fall22Jam-Specter\Specter\Intermediate\Build\Win64\UnrealEditor\Development\Specter\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
