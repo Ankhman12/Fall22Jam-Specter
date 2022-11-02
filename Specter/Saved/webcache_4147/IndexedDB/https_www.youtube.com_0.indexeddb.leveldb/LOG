@@ -1,5 +1,3 @@
-2022/10/21-22:54:39.526 948 Reusing MANIFEST C:/Users/gerar/Documents/GitHub/Fall22Jam-Specter/Specter/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/21-23:19:36.775 45cc Level-0 table #5: started
-2022/10/21-23:19:36.831 45cc Level-0 table #5: 7336 bytes OK
-2022/10/21-23:19:36.877 45cc Delete type=0 #3
-2022/10/21-23:19:36.877 45cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/11/01-06:56:28.193 1518 Reusing MANIFEST C:/Users/gerar/Documents/GitHub/Fall22Jam-Specter/Specter/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/01-06:56:28.193 1518 Recovering log #4
+2022/11/01-06:56:28.194 1518 Reusing old log C:/Users/gerar/Documents/GitHub/Fall22Jam-Specter/Specter/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
