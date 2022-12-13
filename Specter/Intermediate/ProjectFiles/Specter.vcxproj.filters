@@ -11,6 +11,8 @@
     <None Include="..\..\Source\SpecterEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\levelTest2.fbx" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +31,12 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\Specter">
       <UniqueIdentifier>{2770C3BC-F54F-3446-B50F-CB049223EB85}</UniqueIdentifier>
     </Filter>
@@ -40,18 +48,6 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Specter\Specter.h">
       <Filter>Source\Specter</Filter>
-    </ClInclude>
-    <Filter Include="Source\Specter\Private">
-      <UniqueIdentifier>{C0D57297-8132-355D-92E3-EF23B99E02FA}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\Specter\Private\SpecterGameMode.cpp">
-      <Filter>Source\Specter\Private</Filter>
-    </ClCompile>
-    <Filter Include="Source\Specter\Public">
-      <UniqueIdentifier>{3F7BEF15-2A4C-35EB-91AD-CB5156F378FE}</UniqueIdentifier>
-    </Filter>
-    <ClInclude Include="..\..\Source\Specter\Public\SpecterGameMode.h">
-      <Filter>Source\Specter\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
