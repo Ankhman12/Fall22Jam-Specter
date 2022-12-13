@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Levels/levelTest2.umap",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/Master.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/Ghostly_1.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/Ghostly_2.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/TopDown/Blueprints/BP_GhostCharacter.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/GhostEye.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Characters/SpectreGhost/OutlineGhost.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/GhostOutline.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/GraveyardBlueprints/BP_Lantern.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Levels/MitchellTestLevel.umap"
+			]
+		}
+	]
+}
