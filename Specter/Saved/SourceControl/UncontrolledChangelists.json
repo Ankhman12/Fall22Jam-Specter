@@ -36,12 +36,6 @@
 				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Characters/Material.uasset",
 				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/StarterContent/Materials/M_Metal_Iron.uasset",
 				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/StarterContent/Materials/M_Rock_Granite.uasset",
-				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/bark-stack-ao3.uasset",
-				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/bark-stack-height3.uasset",
-				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/bark-stack-metallic3.uasset",
-				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/oak-bark-basecolor3.uasset",
-				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/oak-bark-normal-dx3.uasset",
-				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/oak-bark-rough3.uasset",
 				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/OakBark.uasset",
 				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/TopDown/Blueprints/BP_GraveKeeperCharacter.uasset",
 				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Levels/SpookyIsland.umap",
@@ -60,7 +54,21 @@
 				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Levels/SpookyIsland_BuiltData.uasset",
 				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/StarterContent/Materials/M_Concrete_Grime.uasset",
 				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/StarterContent/Materials/M_Ground_Grass.uasset",
-				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/StarterContent/Materials/M_Metal_Rust.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/Textures/rock_tex2.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/Textures/rock_tex1.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/Textures/grass_tex1.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/Textures/dirt_tex1.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/Textures/sand_tex1.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/Textures/sand_tex2.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Levels/SpookyIsland_sharedassets/Stone_LayerInfo.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/bark-stack-ao3.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/bark-stack-height3.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/bark-stack-metallic3.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/oak-bark-basecolor3.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/oak-bark-normal-dx3.uasset",
+				"C:/Users/ankhm/Documents/Unreal Projects/Fall22Jam-Specter/Specter/Content/Materials/oak-bark-rough3.uasset"
 			]
 		}
 	]
